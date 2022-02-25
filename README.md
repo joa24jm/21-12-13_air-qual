@@ -7,8 +7,9 @@ For this project in particular, that means:
 - Train a regressor on humidity and minimize the mean squared error
 - Use XAI tools to explain your classifier to stakeholders and debug it
 
-## Der Datensatz
+## The datasets
 The dataset is public from the [UCI ML repository](https://archive.ics.uci.edu/ml/datasets/air+quality).
+Depending on the number of groups and the interest of the students, a second dataset of the [SOEP](https://www.diw.de/en/diw_01.c.678568.en/research_data_center_soep.html) might be introduced.
 
 | **Feature No.** | **Description**                                                                                          |
 |-----------------|----------------------------------------------------------------------------------------------------------|
