@@ -31,7 +31,7 @@ The dataset is public from the [UCI ML repository](https://archive.ics.uci.edu/m
 Depending on the number of groups and the interest of the students, a second dataset of the [SOEP](https://www.diw.de/en/diw_01.c.678568.en/research_data_center_soep.html) might be introduced.
 
 ## Timeline
-- Friday, 2022-03-18    
+- Freitag, 2022-03-18    
   - Auftaktveranstaltung mit Vorstellung der neuen Projekte (und Bildung der Gruppen zur Bearbeitung)
 - Freitag, 2022-04-01
   - Vorstellung der Planung des ersten Sprints: Analysie
