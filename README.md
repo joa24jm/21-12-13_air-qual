@@ -1,10 +1,14 @@
 # 21-12-13_Air-Quality-Regression
 
-Ziel des Projekts ist ein Proof-of-Concept (PoC) für ein Machine Learning Model in der Cloud von Exone. 
-Das Projekt soll bis 2022-06 fertig sein. Die Vorhersage der Luftqualität als Regression ist eines der PoCs.
+The goal of the project is to go through the [CRISP-DM cycle](https://www.atr-software.de/leistungen/ki/) of a Machine Learning Project.
+For this project in particular, that means:
+- Analyse the dataset 
+- Discover and present patterns that you find
+- Train a regressor on humidity and minimize the mean squared error
+- Use XAI tools to explain your classifier to stakeholders and debug it
 
 ## Der Datensatz
-Der Datensatz stammt von aus dem [UCI ML repository](https://archive.ics.uci.edu/ml/datasets/air+quality).
+The dataset is public from the [UCI ML repository](https://archive.ics.uci.edu/ml/datasets/air+quality).
 
 | **Feature No.** | **Description**                                                                                          |
 |-----------------|----------------------------------------------------------------------------------------------------------|
@@ -24,6 +28,17 @@ Der Datensatz stammt von aus dem [UCI ML repository](https://archive.ics.uci.edu
 | 13              | Relative Humidity (%)                                                                                    |
 | 14              | AH Absolute Humidity                                                                                     |
 
-## Regressionsaufgabe
-Vorhergesagt werden soll Feature 14, absolute Humidity. 
-test
+## Timeline
+- Friday, 2022-03-18    
+  - Auftaktveranstaltung mit Vorstellung der neuen Projekte (und Bildung der Gruppen zur Bearbeitung)
+- Freitag, 2022-04-01
+  - Vorstellung der Planung des ersten Sprints: Analysie
+- Freitag, 2022-04-22   
+  - Vorstellung der Planung des zweiten Sprints und  Review+Retrospektive des ersten Sprints
+- Freitag, 2022-05-13
+  - Vorstellung der Planung des dritten Sprints und Review+Retrospektive des zweiten Sprints
+- Freitag, 2022-06-03 
+  - Vorstellung der Planung des letzten Sprints und Review+Retrospektive des dritten Sprints
+- Freitag, 2022-07-01
+  - Abschlusspräsentation (sofern möglich als Postersession / alternativ online: 10:30 - 12:00 Uhr)
+
