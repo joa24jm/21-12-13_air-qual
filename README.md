@@ -9,7 +9,6 @@ For this project in particular, that means:
 
 ## The datasets
 The dataset is public from the [UCI ML repository](https://archive.ics.uci.edu/ml/datasets/air+quality).
-Depending on the number of groups and the interest of the students, a second dataset of the [SOEP](https://www.diw.de/en/diw_01.c.678568.en/research_data_center_soep.html) might be introduced.
 
 | **Feature No.** | **Description**                                                                                          |
 |-----------------|----------------------------------------------------------------------------------------------------------|
@@ -25,9 +24,11 @@ Depending on the number of groups and the interest of the students, a second dat
 | 9               | True hourly averaged NO2 concentration in microg/m^3 (reference analyzer)                                |
 | 10              | PT08.S4 (tungsten oxide) hourly averaged sensor response (nominally NO2   targeted)                      |
 | 11              | PT08.S5 (indium oxide) hourly averaged sensor response (nominally O3   targeted)                         |
-| 12              | Temperature in °C                                                                                       |
+| 12              | Temperature in °C                                                                                        |
 | 13              | Relative Humidity (%)                                                                                    |
 | 14              | AH Absolute Humidity                                                                                     |
+
+Depending on the number of groups and the interest of the students, a second dataset of the [SOEP](https://www.diw.de/en/diw_01.c.678568.en/research_data_center_soep.html) might be introduced.
 
 ## Timeline
 - Friday, 2022-03-18    
