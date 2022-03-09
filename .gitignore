@@ -1,5 +1,7 @@
 venv/
 .idea/
+data/01_raw/test.csv
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

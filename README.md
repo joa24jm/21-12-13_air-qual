@@ -34,7 +34,7 @@ Depending on the number of groups and the interest of the students, a second dat
 - Freitag, 2022-03-18    
   - Auftaktveranstaltung mit Vorstellung der neuen Projekte (und Bildung der Gruppen zur Bearbeitung)
 - Freitag, 2022-04-01
-  - Vorstellung der Planung des ersten Sprints: Analysie
+  - Vorstellung der Planung des ersten Sprints: Analyse
 - Freitag, 2022-04-22   
   - Vorstellung der Planung des zweiten Sprints und  Review+Retrospektive des ersten Sprints
 - Freitag, 2022-05-13
@@ -43,4 +43,7 @@ Depending on the number of groups and the interest of the students, a second dat
   - Vorstellung der Planung des letzten Sprints und Review+Retrospektive des dritten Sprints
 - Freitag, 2022-07-01
   - Abschlusspräsentation (sofern möglich als Postersession / alternativ online: 10:30 - 12:00 Uhr)
+
+## Acess via Google colab
+The colab notebook is [here](https://colab.research.google.com/drive/12Tww4mLmj0uLmoB9PnHVsYxPP9ouQRhN?usp=sharing).
 
